@@ -9,4 +9,5 @@ Select and click each "row button" to remove the matching items.
    If the computer has the last  matchsticks left, you win, otherwise you lose.
    
 Who moves first?
+
 At the start of the game, you have the first move, unless you let the computer play first by pressing the "Pc move" button.
